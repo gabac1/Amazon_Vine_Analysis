@@ -26,9 +26,11 @@ Table 2: reviews from non-Vine consumers
 However, although the number of 5 star votes is not higher in the Vine group, the distributions of review ratings of the two groups are very different. The percentages of 4 and 3-star ratings in the non-Vine group are lower and the percentage of 1-star ratings is much higher than in the Vine group, as can be observed from the following figures.
 
 Figure 1: reviews from the Vine program members:
+
 ![Figure 1](https://github.com/gabac1/Amazon_Vine_Analysis/blob/main/resources/fig1.svg)
 
 Figure 2: reviews from non-Vine consumers:
+
 ![Figure 2](https://github.com/gabac1/Amazon_Vine_Analysis/blob/main/resources/fig2.svg)
 
 ## Summary:
